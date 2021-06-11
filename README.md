@@ -1,3 +1,2 @@
 | #open source software | # open source software |
-| - You did a good job! | - You did a good job! |
-| - Hope you endjoyed the class. | - Hope you endjoyed the calss. |
+| - Hope you enjoyed the class. | - Hope you enjoyed the class. |
